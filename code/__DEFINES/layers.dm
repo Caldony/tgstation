@@ -64,6 +64,7 @@
 #define SIGN_LAYER 3.4
 #define NOT_HIGH_OBJ_LAYER 3.5
 #define HIGH_OBJ_LAYER 3.6
+#define RAGE_FIRE_LAYER 3.65 //only used for the overlay unique to the red warped rune
 
 #define BELOW_MOB_LAYER 3.7
 #define LYING_MOB_LAYER 3.8
